@@ -1,0 +1,11 @@
+{
+  "name": "safe-html",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Karol Marcjan <karol.marcjan@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "elm": "^0.18.0",
+    "elm-format": "^0.7.0-exp"
+  }
+}
